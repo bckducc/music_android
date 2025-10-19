@@ -1,4 +1,4 @@
-# trainning
+# Ứng dụng quản lý âm nhạc
 
 A new Flutter project.
 

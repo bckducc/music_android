@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213377902369",
+    "project_id": "bckducc",
+    "storage_bucket": "bckducc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213377902369:android:a8b54e4a3e402e2b40c060",
+        "android_client_info": {
+          "package_name": "com.example.trainning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknZpHsDqqpyiYmjso3_4hs1OK9KutDiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
